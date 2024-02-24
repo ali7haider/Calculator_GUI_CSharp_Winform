@@ -1,0 +1,21 @@
+D:\Study\Semester 2\Object Oriented Programming\Week 9\PDCalculator\PDCalculator\bin\Debug\PDCalculator.exe.config
+D:\Study\Semester 2\Object Oriented Programming\Week 9\PDCalculator\PDCalculator\bin\Debug\PDCalculator.exe
+D:\Study\Semester 2\Object Oriented Programming\Week 9\PDCalculator\PDCalculator\bin\Debug\PDCalculator.pdb
+D:\Study\Semester 2\Object Oriented Programming\Week 9\PDCalculator\PDCalculator\obj\Debug\PDCalculator.csproj.AssemblyReference.cache
+D:\Study\Semester 2\Object Oriented Programming\Week 9\PDCalculator\PDCalculator\obj\Debug\PDCalculator.FormCalculator.resources
+D:\Study\Semester 2\Object Oriented Programming\Week 9\PDCalculator\PDCalculator\obj\Debug\PDCalculator.Properties.Resources.resources
+D:\Study\Semester 2\Object Oriented Programming\Week 9\PDCalculator\PDCalculator\obj\Debug\PDCalculator.csproj.GenerateResource.cache
+D:\Study\Semester 2\Object Oriented Programming\Week 9\PDCalculator\PDCalculator\obj\Debug\PDCalculator.csproj.CoreCompileInputs.cache
+D:\Study\Semester 2\Object Oriented Programming\Week 9\PDCalculator\PDCalculator\obj\Debug\PDCalculator.exe
+D:\Study\Semester 2\Object Oriented Programming\Week 9\PDCalculator\PDCalculator\obj\Debug\PDCalculator.pdb
+D:\Study\Projects\Calculator GUI Winform\PDCalculator\bin\Debug\PDCalculator.exe.config
+D:\Study\Projects\Calculator GUI Winform\PDCalculator\bin\Debug\PDCalculator.exe
+D:\Study\Projects\Calculator GUI Winform\PDCalculator\bin\Debug\PDCalculator.pdb
+D:\Study\Projects\Calculator GUI Winform\PDCalculator\obj\Debug\PDCalculator.csproj.AssemblyReference.cache
+D:\Study\Projects\Calculator GUI Winform\PDCalculator\obj\Debug\PDCalculator.csproj.SuggestedBindingRedirects.cache
+D:\Study\Projects\Calculator GUI Winform\PDCalculator\obj\Debug\PDCalculator.FormCalculator.resources
+D:\Study\Projects\Calculator GUI Winform\PDCalculator\obj\Debug\PDCalculator.Properties.Resources.resources
+D:\Study\Projects\Calculator GUI Winform\PDCalculator\obj\Debug\PDCalculator.csproj.GenerateResource.cache
+D:\Study\Projects\Calculator GUI Winform\PDCalculator\obj\Debug\PDCalculator.csproj.CoreCompileInputs.cache
+D:\Study\Projects\Calculator GUI Winform\PDCalculator\obj\Debug\PDCalculator.exe
+D:\Study\Projects\Calculator GUI Winform\PDCalculator\obj\Debug\PDCalculator.pdb
